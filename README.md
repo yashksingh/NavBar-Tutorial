@@ -1,2 +1,2 @@
 # NavBar-Tutorial
-Basic Navbar Template.
+Basic Navbar Template and Design. 
